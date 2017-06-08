@@ -1,0 +1,2 @@
+====>>【日志时间】：2017-06-08 23:47:46.0889 【日志内容】：尝试除以零。 尝试除以零。 System.DivideByZeroException DivideByZeroException System.DivideByZeroException: 尝试除以零。
+   在 _Default.Page_Load(Object sender, EventArgs e) 位置 e:\Users\Charles\Documents\Visual Studio 2015\WebSites\NlogDemo\Default.aspx.cs:行号 19 Void Page_Load(System.Object, System.EventArgs)    在 _Default.Page_Load(Object sender, EventArgs e) 位置 e:\Users\Charles\Documents\Visual Studio 2015\WebSites\NlogDemo\Default.aspx.cs:行号 19
